@@ -12,6 +12,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from src.keyword_scoring import frequency_scores
 from src.ranking import aggregate_scores, compare_rankings
 from src.related_keywords import related_keywords
+from src.related_videos import select_related_videos
 
 
 videos = [
@@ -41,5 +42,18 @@ print(
         "방탄소년단",
         [["방탄소년단", "컴백", "무대", "음악", "팬"], ["방탄소년단", "컴백", "무대", "음악", "팬"]],
         min_cooccurrence=2,
+    ),
+)
+
+# 동일 영상의 여러 수집 기록 중 키워드 점수가 가장 높은 기록만 남기는 예시입니다.
+print(
+    "Related videos:",
+    select_related_videos(
+        "방탄소년단",
+        [
+            {"video_id": "a", "title": "컴백 무대", "combined_score": {"방탄소년단": 80}},
+            {"video_id": "a", "title": "컴백 무대", "combined_score": {"방탄소년단": 100}},
+            {"video_id": "b", "title": "인터뷰", "combined_score": {"방탄소년단": 70}},
+        ],
     ),
 )

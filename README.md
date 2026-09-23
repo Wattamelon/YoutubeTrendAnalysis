@@ -154,14 +154,6 @@ TF-IDF는 여러 영상에 광범위하게 나타나는 흔한 단어의 영향�
 - new: 신규 진입
 - ranked_out: 랭크 아웃
 
-초기 실험에서는 게시 후 경과 시간당 조회수와 반복 출현 보정을 추가로 활용했습니다.
-
-    experimental_score(k)
-    = Σ [view_count(v) / elapsed_hours(v)] × combined_score(v, k)
-      / occurrences(k)^0.5
-
-조회속도 보정은 src/ranking.py에 독립 함수로 남겨두었습니다. 현재 기본 랭킹은 기간 내 combined_score 합산을 사용하므로, 두 방식은 같은 공식이 아니라 초기 실험과 서비스 지향 구현으로 구분합니다.
-
 ## 연관 키워드 산정
 
 연관 키워드는 최근 댓글 토큰의 N-gram 동시 출현을 사용해 계산합니다.
@@ -185,6 +177,7 @@ PMI만 사용하면 드물게 한 번 함께 등장한 단어가 과대평가될
 | 키워드 점수화 | [src/keyword_scoring.py](src/keyword_scoring.py) | 빈도, TextRank, TF-IDF/KRWordRank 점수 통합 |
 | 기간별 랭킹 | [src/ranking.py](src/ranking.py) | 점수 집계와 순위 변동 계산 |
 | 연관 키워드 | [src/related_keywords.py](src/related_keywords.py) | 영상 단위 N-gram 동시 출현 PMI 계산 |
+| 관련 영상 추천 | [src/related_videos.py](src/related_videos.py) | 선택한 키워드 점수가 높은 최근 영상의 중복 제거 및 Top N 반환 |
 
 ## 기술 스택
 
@@ -205,4 +198,3 @@ Python 의존성을 설치한 뒤, DB나 YouTube API 없이도 작은 예시와 
 이 저장소는 실험·프로토타입에서 분석 핵심 모듈을 추출한 포트폴리오 버전입니다. 공개 버전에서는 API 키, DB 인증 정보와 인스턴스, 운영 수집 데이터, Python 가상환경을 제외했습니다.
 
 향후에는 Docker 기반 실행 환경, 환경 변수 예시 파일, 의존성 고정, 수집·분석 배치 자동화, 랭킹 가중치의 정량 평가를 통해 재현성과 운영성을 개선할 수 있습니다.
-

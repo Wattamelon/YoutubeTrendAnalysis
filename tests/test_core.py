@@ -5,6 +5,7 @@ import unittest
 from src.preprocessing import clean_comment
 from src.ranking import aggregate_scores, compare_rankings
 from src.related_keywords import related_keywords
+from src.related_videos import select_related_videos
 
 
 class CoreModuleTests(unittest.TestCase):
@@ -37,6 +38,17 @@ class CoreModuleTests(unittest.TestCase):
         )
         self.assertEqual(related[0]["keyword"], "B")
 
+    def test_related_video_selection_deduplicates_by_best_keyword_score(self):
+        videos = select_related_videos(
+            "BTS",
+            [
+                {"video_id": "a", "title": "old", "combined_score": {"BTS": 10}},
+                {"video_id": "a", "title": "new", "combined_score": {"BTS": 30}},
+                {"video_id": "b", "title": "other", "combined_score": {"BTS": 20}},
+            ],
+        )
+        self.assertEqual([video["video_id"] for video in videos], ["a", "b"])
+        self.assertEqual(videos[0]["score"], 30.0)
 
 if __name__ == "__main__":
     unittest.main()

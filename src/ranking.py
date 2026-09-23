@@ -21,10 +21,6 @@ movement 값의 의미:
     unchanged   - 순위가 동일
     new         - 이전 Top K에는 없고 현재 Top K에 새로 진입
     ranked_out  - 이전 Top K에는 있었지만 현재 Top K에서 이탈
-
-view_velocity_score는 초기 실험에서 사용한 시간당 조회수 보정 함수입니다.
-현재 기본 랭킹은 combined_score 합산을 사용하며, 이 함수는 인기 반응 속도를
-별도 신호로 결합할 수 있는 실험적 확장 지점으로 남겨두었습니다.
 """
 
 from __future__ import annotations  # 최신 타입 표기법을 안전하게 사용합니다.
@@ -85,12 +81,3 @@ def compare_rankings(
         )
     # 현재 순위가 있는 키워드를 먼저 보여 주고, 랭크 아웃은 뒤로 보냅니다.
     return sorted(comparison, key=lambda row: row["current_rank"] or float("inf"))
-
-
-def view_velocity_score(video: dict[str, Any], elapsed_hours: float) -> float:
-    """초기 실험에서 사용한 시간당 조회수 기반 인기 보정값을 계산합니다."""
-    # 게시 이후 시간이 0 이하라면 0으로 나누지 않도록 0을 반환합니다.
-    if elapsed_hours <= 0:
-        return 0.0
-    # 조회수를 게시 후 경과 시간으로 나눠 조회 속도를 반환합니다.
-    return float(video.get("view_count", 0)) / elapsed_hours
