@@ -1,0 +1,24 @@
+# MongoDB 연동
+pymongo==4.6.3
+
+# 데이터 분석 및 수치 계산
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+python-dateutil==2.9.0.post0
+
+# 유튜브 오디오 다운로드 및 처리
+yt-dlp==2024.5.27
+ffmpeg-python==0.2.0  # ffmpeg 연동 필요 시
+
+# OpenAI Whisper 및 GPT 사용
+openai==1.30.1
+tiktoken==0.6.0
+python-dotenv==1.0.1
+
+# 한글 자연어 처리 도구
+kiwipiepy==0.17.2
+krwordrank==1.0
+
+# 타입 지원 (선택적, 일부 환경에서 필요)
+typing-extensions>=4.0.0

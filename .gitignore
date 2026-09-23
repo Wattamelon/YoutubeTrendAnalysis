@@ -1,0 +1,13 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and data
+.env
+.env.*
+*.sqlite3
+
+# Operating-system files
+.DS_Store

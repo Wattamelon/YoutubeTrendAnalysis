@@ -1,0 +1,1180 @@
+# News & Politics
+신장식	NNP
+오동운	NNP
+박용진	NNP
+동앵	NNP
+일론 머스크	NNP
+문형배	NNP
+안귀령	NNP
+우크라이나	NNP
+우크라	NNP
+방탄소년단	NNP
+블랙핑크	NNP
+제니	NNP
+뉴진스	NNP
+에스파	NNP
+손흥민	NNP
+리그오브레전드	NNP
+배틀그라운드	NNP
+애플	NNP
+삼성	NNP
+우크라이나	NNP
+우크라	우크라이나/NNP
+한국	NNP	-100
+포박용	NNP
+명태균	NNP
+포박용포	포박용/NNP	-500
+곽규택	NNP
+한덕수	NNP
+한국은행	NNP
+한은	한국은행/NNP
+홍장원	NNP
+일론 머스크	NNP
+머스크	일론 머스크/NNP	-100
+자유대한민국	NNP
+박선원	NNP
+전한길	NNP
+김건희	NNP
+문재인	NNP
+한동훈	NNP
+윤석열	NNP
+이재용	NNP
+박근혜	NNP
+이낙연	NNP
+김부겸	NNP
+홍준표	NNP
+안철수	NNP
+심상정	NNP
+유시민	NNP
+황교안	NNP
+조국	NNP
+서경배	NNP
+이재명	NNP
+김종인	NNP
+김무성	NNP
+최순실	NNP
+오동운	NNP
+오동훈	오동운/NNP
+문재인정부	NNP
+국회	NNP
+청와대	NNP
+자유한국당	NNP
+더불어민주당	NNP
+정의당	NNP
+미래통합당	NNP
+국민의당	NNP
+서울시	NNP
+부산시	NNP
+대구시	NNP
+인천시	NNP
+광주시	NNP
+대전시	NNP
+울산시	NNP
+세종시	NNP
+국무총리	NNP
+외교부	NNP
+국방부	NNP
+통일부	NNP
+법무부	NNP
+기획재정부	NNP
+산업통상자원부	NNP
+과학기술정보통신부	NNP
+환경부	NNP
+보건복지부	NNP
+교육부	NNP
+문화체육관광부	NNP
+농림축산식품부	NNP
+국토교통부	NNP
+행정안전부	NNP
+재외동포청	NNP
+한국은행	NNP
+금융위원회	NNP
+한국거래소	NNP
+한국수출입은행	NNP
+국민권익위원회	NNP
+언론	NNP
+조선일보	NNP
+동아일보	NNP
+한겨레	NNP
+경향신문	NNP
+매일경제	NNP
+한국경제	NNP
+서울신문	NNP
+mbc	NNP
+kbs	NNP
+sbs	NNP
+jtbc	NNP
+ytn	NNP
+연합뉴스	NNP
+국제뉴스	NNP
+bbc	NNP
+cnn	NNP
+al jazeera	NNP
+reuters	NNP
+ap	NNP
+뉴욕타임즈	NNP
+워싱턴포스트	NNP
+경제전문지	NNP
+정치전문지	NNP
+여론조사	NNP
+국제연합	NNP
+유엔	NNP
+g7	NNP
+apec	NNP
+oecd	NNP
+세계은행	NNP
+imf	NNP
+국제통화기금	NNP
+nato	NNP
+국제사법재판소	NNP
+코로나바이러스	NNP
+백신	NNP
+검찰	NNP
+재판소	NNP
+의회	NNP
+정당	NNP
+선거	NNP
+투표	NNP
+의장	NNP
+정상회담	NNP
+국가	NNP
+주권	NNP
+헌법	NNP
+
+# Music
+이홍기	NNP
+황가람	NNP
+bts	NNP
+blackpink	NNP
+세븐틴	NNP
+exo	NNP
+twice	NNP
+레드벨벳	NNP
+nct	NNP
+got7	NNP
+몬스타엑스	NNP
+super junior	NNP
+빅뱅	NNP
+2ne1	NNP
+아이유	NNP
+태연	NNP
+청하	NNP
+선미	NNP
+현아	NNP
+지드래곤	NNP
+지코	NNP
+마마무	NNP
+오마이걸	NNP
+여자친구	NNP
+모모랜드	NNP
+exid	NNP
+aoa	NNP
+샤이니	NNP
+f(x)	NNP
+씨스타	NNP
+아이즈원	NNP
+loona	NNP
+펜타곤	NNP
+우주소녀	NNP
+스트레이 키즈	NNP
+itzy	NNP
+에스파	NNP
+treasure	NNP
+ateez	NNP
+txt	NNP
+enhypen	NNP
+박재범	NNP
+개코	NNP
+도끼	NNP
+기리보이	NNP
+스윙스	NNP
+비와이	NNP
+mc몽	NNP
+로꼬	NNP
+빈지노	NNP
+더콰이엇	NNP
+현우	NNP
+나플라	NNP
+수퍼비	NNP
+넉살	NNP
+팔로알토	NNP
+제시	NNP
+대창	NNP
+머쉬베놈	NNP
+taylor swift	NNP
+ariana grande	NNP
+billie eilish	NNP
+ed sheeran	NNP
+justin bieber	NNP
+rihanna	NNP
+beyoncé	NNP
+lady gaga	NNP
+katy perry	NNP
+drake	NNP
+the weeknd	NNP
+dua lipa	NNP
+bruno mars	NNP
+sam smith	NNP
+shawn mendes	NNP
+post malone	NNP
+harry styles	NNP
+selena gomez	NNP
+maroon 5	NNP
+imagine dragons	NNP
+coldplay	NNP
+linkin park	NNP
+red hot chili peppers	NNP
+muse	NNP
+queen	NNP
+abba	NNP
+nirvana	NNP
+metallica	NNP
+green day	NNP
+the beatles	NNP
+rolling stones	NNP
+eminem	NNP
+sia	NNP
+camila cabello	NNP
+halsey	NNP
+doja cat	NNP
+lizzo	NNP
+migos	NNP
+future	NNP
+travis scott	NNP
+mariah carey	NNP
+celine dion	NNP
+cher	NNP
+
+# Sports
+맨체스터 유나이티드	NNP
+손흥민	NNP
+박지성	NNP
+이강인	NNP
+황의조	NNP
+김민재	NNP
+이재성	NNP
+조현우	NNP
+김진수	NNP
+기성용	NNP
+이청용	NNP
+류현진	NNP
+추신수	NNP
+박찬호	NNP
+이승엽	NNP
+최지만	NNP
+김광현	NNP
+양현종	NNP
+오지환	NNP
+김태균	NNP
+박병호	NNP
+서장훈	NNP
+김재경	NNP
+조성민	NNP
+박찬희	NNP
+양홍석	NNP
+lionel messi	NNP
+cristiano ronaldo	NNP
+neymar	NNP
+kylian mbappe	NNP
+robert lewandowski	NNP
+kevin de bruyne	NNP
+mohamed salah	NNP
+virgil van dijk	NNP
+sergio ramos	NNP
+luka modric	NNP
+mike trout	NNP
+mookie betts	NNP
+aaron judge	NNP
+clayton kershaw	NNP
+jacob degrom	NNP
+lebron james	NNP
+stephen curry	NNP
+kevin durant	NNP
+giannis antetokounmpo	NNP
+james harden	NNP
+roger federer	NNP
+rafael nadal	NNP
+novak djokovic	NNP
+andy murray	NNP
+serena williams	NNP
+naomi osaka	NNP
+tiger woods	NNP
+phil mickelson	NNP
+rory mcilroy	NNP
+jordan spieth	NNP
+brooks koepka	NNP
+lewis hamilton	NNP
+max verstappen	NNP
+sebastian vettel	NNP
+charles leclerc	NNP
+fernando alonso	NNP
+리오넬 메시	NNP
+크리스티아노 호날두	NNP
+네이마르	NNP
+킬리안 음바페	NNP
+로베르트 레반도프스키	NNP
+케빈 더 브라위너	NNP
+모하메드 살라	NNP
+버질 판 디익	NNP
+세르히오 라모스	NNP
+루카 모드리치	NNP
+마이크 트라우트	NNP
+무키 베츠	NNP
+아론 저지	NNP
+클레이튼 커쇼	NNP
+제이콥 디그롬	NNP
+르브론 제임스	NNP
+스테판 커리	NNP
+케빈 듀란트	NNP
+야니스 안테토쿤보	NNP
+제임스 하든	NNP
+로저 페더러	NNP
+라파엘 나달	NNP
+노박 조코비치	NNP
+앤디 머레이	NNP
+세리나 윌리엄스	NNP
+나오미 오사카	NNP
+타이거 우즈	NNP
+필 미켈슨	NNP
+로리 맥길로이	NNP
+조던 스피스	NNP
+브룩스 코에프카	NNP
+루이스 해밀턴	NNP
+막스 페르스타펀	NNP
+세바스찬 베텔	NNP
+샤를 르클레르	NNP
+페르난도 알론소	NNP
+faker	NNP
+페이커	NNP
+우지	NNP
+uzi	NNP
+doublelift	NNP
+s1mple	NNP
+n0tail	NNP
+올림픽	NNP
+월드컵	NNP
+아시안게임	NNP
+유로파리그	NNP
+챔피언스리그	NNP
+그랑프리	NNP
+nba	NNP
+kbo리그	NNP
+k리그	NNP
+epl	NNP
+la liga	NNP
+serie a	NNP
+bundesliga	NNP
+nfl	NNP
+mlb	NNP
+atp투어	NNP
+wta투어	NNP
+ufc	NNP
+wwe	NNP
+formula 1	NNP
+motogp	NNP
+pga투어	NNP
+world baseball classic	NNP
+올림픽금메달	NNP
+아시안컵	NNP
+슈퍼리그	NNP
+lol월드챔피언십	NNP
+nba올스타	NNP
+그랜드슬램	NNP
+전국체전	NNP
+프로리그	NNP
+챔피언스컵	NNP
+fifa월드컵	NNP
+올림픽메달	NNP
+
+# Gaming
+브롤 스타즈	NNP
+리그 오브 레전드	NNP
+오버워치	NNP
+배틀그라운드	NNP
+스타크래프트	NNP
+메이플스토리	NNP
+던전앤파이터	NNP
+카트라이더	NNP
+fifa	NNP
+nba2k	NNP
+롤	NNP
+오버워치 리그	NNP
+t1	NNP
+젠지	NNP
+kt rolster	NNP
+drx	NNP
+afreecatv	NNP
+twitch	NNP
+youtube gaming	NNP
+steam	NNP
+epic games	NNP
+blizzard entertainment	NNP
+riot games	NNP
+valve	NNP
+ubisoft	NNP
+electronic arts	NNP
+cd projekt	NNP
+bethesda	NNP
+konami	NNP
+capcom	NNP
+nintendo	NNP
+playstation	NNP
+xbox	NNP
+PC방	NNP
+모바일게임	NNP
+서든어택	NNP
+크레이지 아케이드	NNP
+메이플스토리 2	NNP
+포트나이트	NNP
+apex legends	NNP
+valorant	NNP
+hearthstone	NNP
+dota 2	NNP
+counter strike	NNP
+롤월드챔피언십	NNP
+esl one	NNP
+dreamhack	NNP
+mlg	NNP
+gsl	NNP
+starcraft ii	NNP
+counter-strike: global offensive	NNP
+rocket league	NNP
+minecraft	NNP
+roblox	NNP
+among us	NNP
+fall guys	NNP
+dead by daylight	NNP
+resident evil	NNP
+final fantasy	NNP
+kingdom hearts	NNP
+gran turismo	NNP
+forza horizon	NNP
+the witcher	NNP
+cyberpunk 2077	NNP
+assassin's creed	NNP
+call of duty	NNP
+battlefield	NNP
+halo	NNP
+gears of war	NNP
+splatoon	NNP
+animal crossing	NNP
+super mario	NNP
+the legend of zelda	NNP
+pokémon	NNP
+mario kart	NNP
+super smash bros	NNP
+tekken	NNP
+street fighter	NNP
+mortal kombat	NNP
+dragon ball fighterz	NNP
+guilty gear	NNP
+soulcalibur	NNP
+king of fighters	NNP
+blazblue	NNP
+persona 5	NNP
+dark souls	NNP
+sekiro	NNP
+bloodborne	NNP
+monster hunter	NNP
+nier: automata	NNP
+yakuza	NNP
+danganronpa	NNP
+ace attorney	NNP
+silent hill	NNP
+fallout	NNP
+the elder scrolls	NNP
+resident evil 7	NNP
+pubg mobile	NNP
+clash royale	NNP
+genshin impact	NNP
+apex legends mobile	NNP
+
+# Science & Technology
+인공지능	NNP
+AI	인공지능/NNP
+아이폰 16	NNP
+아이폰16e	NNP
+아이폰 16e	아이폰16e/NNP
+애플 16e	NNP
+애플 16 e	애플 16e/NNP
+삼성전자	NNP
+lg전자	NNP
+sk하이닉스	NNP
+네이버	NNP
+카카오	NNP
+현대자동차	NNP
+kt	NNP
+lg화학	NNP
+한화	NNP
+두산	NNP
+애플	NNP
+구글	NNP
+마이크로소프트	NNP
+ibm	NNP
+tesla	NNP
+spacex	NNP
+nasa	NNP
+cern	NNP
+mit	NNP
+stanford	NNP
+intel	NNP
+amd	NNP
+nvidia	NNP
+qualcomm	NNP
+oracle	NNP
+sap	NNP
+salesforce	NNP
+amazon	NNP
+facebook	NNP
+twitter	NNP
+instagram	NNP
+linkedin	NNP
+uber	NNP
+airbnb	NNP
+spotify	NNP
+netflix	NNP
+adobe	NNP
+dell	NNP
+hp	NNP
+lenovo	NNP
+asus	NNP
+acer	NNP
+xiaomi	NNP
+huawei	NNP
+oppo	NNP
+vivo	NNP
+ericsson	NNP
+nokia	NNP
+sony	NNP
+panasonic	NNP
+bosch	NNP
+siemens	NNP
+ge	NNP
+philips	NNP
+toshiba	NNP
+sharp	NNP
+fujitsu	NNP
+hitachi	NNP
+canon	NNP
+nikon	NNP
+gopro	NNP
+dji	NNP
+fitbit	NNP
+garmin	NNP
+roku	NNP
+ebay	NNP
+alibaba	NNP
+tencent	NNP
+baidu	NNP
+jd.com	NNP
+pinduoduo	NNP
+softbank	NNP
+broadcom	NNP
+texas instruments	NNP
+micron	NNP
+seagate	NNP
+western digital	NNP
+sk텔레콤	NNP
+lg유플러스	NNP
+한국전력공사	NNP
+한국가스공사	NNP
+포스코	NNP
+현대중공업	NNP
+한진중공업	NNP
+한국조선해양	NNP
+현대모비스	NNP
+현대위아	NNP
+삼성sdi	NNP
+lg디스플레이	NNP
+서울대	NNP
+kaist	NNP
+postech	NNP
+고려대	NNP
+연세대	NNP
+한양대	NNP
+성균관대	NNP
+중앙대	NNP
+경희대	NNP
+이화여대	NNP
+울산과학기술원	NNP
+# [News & Politics] (한국어 100개)
+젤렌스키	NNP
+부정선거	NNP
+문재인	NNP
+윤석열	NNP
+이재용	NNP
+박근혜	NNP
+이낙연	NNP
+김부겸	NNP
+홍준표	NNP
+안철수	NNP
+심상정	NNP
+유시민	NNP
+황교안	NNP
+조국	NNP
+서경배	NNP
+이재명	NNP
+김종인	NNP
+김무성	NNP
+최순실	NNP
+문재인정부	NNP
+국회	NNP
+청와대	NNP
+자유한국당	NNP
+더불어민주당	NNP
+정의당	NNP
+미래통합당	NNP
+국민의당	NNP
+서울시	NNP
+부산시	NNP
+대구시	NNP
+인천시	NNP
+광주시	NNP
+대전시	NNP
+울산시	NNP
+세종시	NNP
+국무총리	NNP
+외교부	NNP
+국방부	NNP
+통일부	NNP
+법무부	NNP
+기획재정부	NNP
+산업통상자원부	NNP
+과학기술정보통신부	NNP
+환경부	NNP
+보건복지부	NNP
+교육부	NNP
+문화체육관광부	NNP
+농림축산식품부	NNP
+국토교통부	NNP
+행정안전부	NNP
+재외동포청	NNP
+한국은행	NNP
+금융위원회	NNP
+한국거래소	NNP
+한국수출입은행	NNP
+국민권익위원회	NNP
+조선일보	NNP
+동아일보	NNP
+한겨레	NNP
+경향신문	NNP
+매일경제	NNP
+한국경제	NNP
+서울신문	NNP
+연합뉴스	NNP
+국제뉴스	NNP
+국민일보	NNP
+문화일보	NNP
+세계일보	NNP
+서울경제	NNP
+동아사이언스	NNP
+한겨레21	NNP
+뉴스타파	NNP
+프레시안	NNP
+미디어오늘	NNP
+시사IN	NNP
+노컷뉴스	NNP
+오마이뉴스	NNP
+tv조선	NNP
+mbc 뉴스	NNP
+kbs 뉴스	NNP
+sbs 뉴스	NNP
+jtbc 뉴스	NNP
+국회도서관	NNP
+청와대 국민청원	NNP
+국정원	NNP
+헌법재판소	NNP
+중앙선거관리위원회	NNP
+한국소비자원	NNP
+대한민국 법무법인	NNP
+국가정보원	NNP
+국제연합한국사무소	NNP
+한국문화예술위원회	NNP
+한국관광공사	NNP
+대한상공회의소	NNP
+한국국제교류재단	NNP
+한일수교기념재단	NNP
+한국미래재단	NNP
+한국경제연구원	NNP
+대통령비서실	NNP
+국가통계포털	NNP
+중앙일보	NNP
+가짜뉴스	NNP
+
+# [Music] (한국어 100개)
+스트레이키즈	NNP
+스키즈	스트레이키즈/NNP
+방탄소년단	NNP
+방탄	방탄소년단/NNP	-100
+블랙핑크	NNP
+세븐틴	NNP
+엑소	NNP
+트와이스	NNP
+레드벨벳	NNP
+엔시티	NNP
+갓세븐	NNP
+몬스타엑스	NNP
+슈퍼주니어	NNP
+빅뱅	NNP
+투애니원	NNP
+아이유	NNP
+태연	NNP
+청하	NNP
+선미	NNP
+현아	NNP
+지드래곤	NNP
+지코	NNP
+마마무	NNP
+오마이걸	NNP
+여자친구	NNP
+모모랜드	NNP
+익시드	NNP
+에이오에이	NNP
+샤이니	NNP
+에프엑스	NNP
+씨스타	NNP
+아이즈원	NNP
+루나	NNP
+펜타곤	NNP
+우주소녀	NNP
+스트레이 키즈	NNP
+있지	NNP
+에스파	NNP
+트레저	NNP
+에이티즈	NNP
+텍스트	NNP
+엔하이픈	NNP
+박재범	NNP
+개코	NNP
+도끼	NNP
+기리보이	NNP
+스윙스	NNP
+비와이	NNP
+MC몽	NNP
+로꼬	NNP
+빈지노	NNP
+더콰이엇	NNP
+현우	NNP
+나플라	NNP
+수퍼비	NNP
+넉살	NNP
+팔로알토	NNP
+제시	NNP
+대창	NNP
+머쉬베놈	NNP
+워너원	NNP
+비투비	NNP
+다비치	NNP
+에일리	NNP
+거미	NNP
+이승철	NNP
+김범수	NNP
+임창정	NNP
+조성모	NNP
+이적	NNP
+이선희	NNP
+신해철	NNP
+유재하	NNP
+김광석	NNP
+이문세	NNP
+
+# news
+문재인	NNP
+윤석열	NNP
+이재용	NNP
+박근혜	NNP
+이낙연	NNP
+김부겸	NNP
+홍준표	NNP
+안철수	NNP
+심상정	NNP
+유시민	NNP
+황교안	NNP
+조국	NNP
+서경배	NNP
+이재명	NNP
+김종인	NNP
+김무성	NNP
+최순실	NNP
+문재인정부	NNP
+국회	NNP
+청와대	NNP
+자유한국당	NNP
+더불어민주당	NNP
+정의당	NNP
+미래통합당	NNP
+국민의당	NNP
+서울시	NNP
+부산시	NNP
+대구시	NNP
+인천시	NNP
+광주시	NNP
+대전시	NNP
+울산시	NNP
+세종시	NNP
+국무총리	NNP
+외교부	NNP
+국방부	NNP
+통일부	NNP
+법무부	NNP
+기획재정부	NNP
+산업통상자원부	NNP
+과학기술정보통신부	NNP
+환경부	NNP
+보건복지부	NNP
+교육부	NNP
+문화체육관광부	NNP
+농림축산식품부	NNP
+국토교통부	NNP
+행정안전부	NNP
+재외동포청	NNP
+한국은행	NNP
+금융위원회	NNP
+한국거래소	NNP
+한국수출입은행	NNP
+국민권익위원회	NNP
+조선일보	NNP
+동아일보	NNP
+한겨레	NNP
+경향신문	NNP
+매일경제	NNP
+한국경제	NNP
+서울신문	NNP
+연합뉴스	NNP
+국제뉴스	NNP
+국민일보	NNP
+문화일보	NNP
+세계일보	NNP
+서울경제	NNP
+동아사이언스	NNP
+한겨레21	NNP
+뉴스타파	NNP
+프레시안	NNP
+미디어오늘	NNP
+시사IN	NNP
+노컷뉴스	NNP
+오마이뉴스	NNP
+tv조선	NNP
+mbc 뉴스	NNP
+kbs 뉴스	NNP
+sbs 뉴스	NNP
+jtbc 뉴스	NNP
+국회도서관	NNP
+청와대 국민청원	NNP
+국정원	NNP
+헌법재판소	NNP
+중앙선거관리위원회	NNP
+한국소비자원	NNP
+대한민국 법무법인	NNP
+국가정보원	NNP
+국제연합한국사무소	NNP
+한국문화예술위원회	NNP
+한국관광공사	NNP
+대한상공회의소	NNP
+한국국제교류재단	NNP
+한일수교기념재단	NNP
+한국미래재단	NNP
+한국경제연구원	NNP
+대통령비서실	NNP
+국가통계포털	NNP
+중앙일보	NNP
+
+# [Music] (한국어 100개)
+방탄소년단	NNP
+블랙핑크	NNP
+세븐틴	NNP
+엑소	NNP
+트와이스	NNP
+레드벨벳	NNP
+엔시티	NNP
+갓세븐	NNP
+몬스타엑스	NNP
+슈퍼주니어	NNP
+빅뱅	NNP
+투애니원	NNP
+아이유	NNP
+태연	NNP
+청하	NNP
+선미	NNP
+현아	NNP
+지드래곤	NNP
+지코	NNP
+마마무	NNP
+오마이걸	NNP
+여자친구	NNP
+모모랜드	NNP
+익시드	NNP
+에이오에이	NNP
+샤이니	NNP
+에프엑스	NNP
+씨스타	NNP
+아이즈원	NNP
+루나	NNP
+펜타곤	NNP
+우주소녀	NNP
+스트레이 키즈	NNP
+있지	NNP
+에스파	NNP
+트레저	NNP
+에이티즈	NNP
+텍스트	NNP
+엔하이픈	NNP
+박재범	NNP
+개코	NNP
+도끼	NNP
+기리보이	NNP
+스윙스	NNP
+비와이	NNP
+MC몽	NNP
+로꼬	NNP
+빈지노	NNP
+더콰이엇	NNP
+현우	NNP
+나플라	NNP
+수퍼비	NNP
+넉살	NNP
+팔로알토	NNP
+제시	NNP
+대창	NNP
+머쉬베놈	NNP
+워너원	NNP
+비투비	NNP
+다비치	NNP
+에일리	NNP
+거미	NNP
+이승철	NNP
+김범수	NNP
+임창정	NNP
+조성모	NNP
+이적	NNP
+이선희	NNP
+신해철	NNP
+유재하	NNP
+김광석	NNP
+이문세	NNP
+송골매	NNP
+다이나믹 듀오	NNP
+이승기	NNP
+장범준	NNP
+10cm	NNP
+자우림	NNP
+크라잉넛	NNP
+국카스텐	NNP
+버스커 버스커	NNP
+로이킴	NNP
+정승환	NNP
+김동률	NNP
+성시경	NNP
+윤종신	NNP
+하동균	NNP
+휘성	NNP
+김동현	NNP
+펀치	NNP
+사이먼 도미닉	NNP
+딘딘	NNP
+박효신	NNP
+임재범	NNP
+이승윤	NNP
+소향	NNP
+김연우	NNP
+김건모	NNP
+유승준	NNP
+장기하	NNP
+
+# [Sports] (한국어 100개)
+우상형	NNP
+손흥민	NNP
+박지성	NNP
+이강인	NNP
+황의조	NNP
+김민재	NNP
+이재성	NNP
+조현우	NNP
+김진수	NNP
+기성용	NNP
+이청용	NNP
+류현진	NNP
+추신수	NNP
+박찬호	NNP
+이승엽	NNP
+최지만	NNP
+김광현	NNP
+양현종	NNP
+오지환	NNP
+김태균	NNP
+박병호	NNP
+서장훈	NNP
+김재경	NNP
+조성민	NNP
+박찬희	NNP
+양홍석	NNP
+김민우	NNP
+최성훈	NNP
+전상민	NNP
+강원국	NNP
+송종국	NNP
+김현수	NNP
+이형종	NNP
+lg 트윈스	NNP
+두산 베어스	NNP
+삼성 라이온즈	NNP
+롯데 자이언츠	NNP
+키움 히어로즈	NNP
+nc 다이노스	NNP
+한화 이글스	NNP
+넥센 히어로즈	NNP
+kt 위즈	NNP
+울산 현대	NNP
+전북 현대	NNP
+수원 삼성 블루윙즈	NNP
+포항 스틸러스	NNP
+대구 fc	NNP
+인천 유나이티드	NNP
+제주 유나이티드	NNP
+서울 fc	NNP
+부산 아이파크	NNP
+광주 fc	NNP
+경남 fc	NNP
+한국 여자 축구 대표팀	NNP
+한국 남자 축구 대표팀	NNP
+박주영	NNP
+김영권	NNP
+최영	NNP
+황선홍	NNP
+문태환	NNP
+김연아	NNP
+최민정	NNP
+허영지	NNP
+장성훈	NNP
+장효원	NNP
+홍범도	NNP
+김재현	NNP
+최재훈	NNP
+이재훈	NNP
+김상곤	NNP
+안양 kgc인삼공사	NNP
+원주 db 프로미	NNP
+인천 전자랜드 엘리펀츠	NNP
+창원 lg 세이커스	NNP
+흥국생명 핑크스파이더스	NNP
+삼성 썬더스	NNP
+대한항공 타이거즈	NNP
+현대 캐피탈 스카이워커스	NNP
+케이피지에이	NNP
+한국자전거연맹	NNP
+서진우	NNP
+김연수	NNP
+이종현	NNP
+서울 올림픽	NNP
+부산 아시안 게임	NNP
+평창 동계 올림픽	NNP
+인천 아시안 게임	NNP
+광주 월드컵	NNP
+대전 국제 육상대회	NNP
+제주 국제 마라톤	NNP
+한국 프로야구	NNP
+한국 프로축구	NNP
+한국 농구리그	NNP
+한국 배구리그	NNP
+한국 수영 연맹	NNP
+한국 체조 협회	NNP
+한국 양궁 협회	NNP
+한국 탁구 연맹	NNP
+한국 배드민턴 협회	NNP
+한국 권투 협회	NNP
+한국 씨름 협회	NNP
+# [Gaming] (한국어 100개)
+스트리머	NNP
+리그 오브 레전드	NNP
+오버워치	NNP
+배틀그라운드	NNP
+스타크래프트	NNP
+서든어택	NNP
+던전앤파이터	NNP
+카트라이더	NNP
+메이플스토리	NNP
+로스트아크	NNP
+리니지	NNP
+리니지2	NNP
+검은사막	NNP
+블레이드 앤 소울	NNP
+피파온라인	NNP
+오버워치 리그	NNP
+롤 월드 챔피언십	NNP
+lck	NNP
+lpl	NNP
+sk텔레콤 T1	NNP
+티원	NNP 
+t1	티원/NNP
+담원 기아	NNP
+딮기	담원 기아/NNP
+dk	담원 기아/NNP
+kt 롤스터	NNP
+drx	NNP
+젠지	NNP
+한화 생명 Esports	NNP
+한화	한화 생명 Esports/NNP
+피어엑스	NNP
+dwg kia	NNP
+LCK 올스타	NNP
+지스타	NNP
+코리아 게임쇼	NNP
+넥슨	NNP
+엔씨소프트	NNP
+넷마블	NNP
+크래프톤	NNP
+카카오게임즈	NNP
+게임빌	NNP
+컴투스	NNP
+블리자드 코리아	NNP
+라이엇 게임즈 코리아	NNP
+에픽 게임즈 코리아	NNP
+e스포츠 아카데미	NNP
+e스포츠 선수	NNP
+e스포츠 코치	NNP
+e스포츠 리그	NNP
+e스포츠 챔피언십	NNP
+온라인 게임	NNP
+모바일 게임	NNP
+PC 게임	NNP
+콘솔 게임	NNP
+실시간 전략 게임	NNP
+1인칭 슈팅 게임	NNP
+다인용 게임	NNP
+협동 게임	NNP
+경쟁 게임	NNP
+롤	NNP
+오버워치2	NNP
+배틀그라운드 모바일	NNP
+서든어택2	NNP
+리니지M	NNP
+검은사막 모바일	NNP
+카트라이더 러쉬+	NNP
+테일즈런너	NNP
+메이플스토리 월드	NNP
+롤 아레나	NNP
+e스포츠 페스티벌	NNP
+온라인 토너먼트	NNP
+게이밍 PC	NNP
+게이밍 노트북	NNP
+게이밍 모니터	NNP
+게이밍 기어	NNP
+게임 스트리머	NNP
+게임 해설	NNP
+헌법재판관	NNP
+유튜버	NNP
+유투버	유튜버/NNP
+모찌엘	NNP
+z플립 6	NNP
+우왁굳	NNP
+찌엘	모찌엘/NNP
+디에디트	NNP
+테크몽	NNP
+뛔뛔뛔뛔	NNP
+테스터훈	NNP
+꼬예유	NNP
+겜브링	NNP
+모양몬	NNP
+준브레드	NNP
+유기사	NNP
+활성화	NNP

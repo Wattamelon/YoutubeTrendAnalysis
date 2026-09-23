@@ -1,0 +1,10 @@
+디에디트	NNP
+테크몽	NNP
+뛔뛔뛔뛔	NNP
+테스터훈	NNP
+꼬예유	NNP
+겜브링	NNP
+모양몬	NNP
+준브레드	NNP
+유기사	NNP
+활성화	NNP

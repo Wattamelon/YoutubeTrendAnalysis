@@ -1,0 +1,49 @@
+
+폴더명 : backend/routes
+- mongoRoute.js
+    - user 정의
+    - keyword rank 정의
+    - users 컬렉션에서 user 정보 가져오는 api
+    - category_keywords 컬렉션에서 키워드 순위 가져오는 api
+    - keyword_videos 컬렉션에서 키워드별 추천 인기 동영상을 가져오는 api 
+    - related_keywords 컬렉션에서 연관 키워드를 가져오는 api
+
+
+폴더명 : backend/src/database/
+- mongodb.js
+    - 로컬 몽고db연결
+
+
+
+폴더명 : backend
+- index_test
+    - index 테스트용
+    - Mysql 및 몽고DB 연결
+    - 3000번 포트에서 실행됨
+
+- category_keywords_update.py
+    - test_database의 category_keywords 컬렉션에 category_keywords.json의 정보를 삽입 , 즉 db에 키워드 랭크 저장
+
+- related_keywords_update.py
+    - test_database에 related_keywords 컬렉션이 없으면 생성 후 related_keywords.json의 데이터 삽입. 
+    있으면 덮어쓰기 , 즉 db에 연관 키워드 저장
+
+- keywords_videos_update.py
+    - test_database에 keywords_videos 컬렉션이 없으면 생성 후 keywords_videos.json의 데이터 삽입. 
+    있으면 덮어쓰기, 즉 db에 키워드별 인기 동영상 저장
+
+실행방법: 
+    - 터미널에서 backend 디렉토리까지 이동
+    - npm start 또는 node index_test.js 실행
+    
+    - curl -X GET http://localhost:3000/api/mongo-users (user정보 불러오는 명령어) 
+    - curl -X GET http://localhost:3000/api/mongo-category-keywords (키워드 랭크 명령어)
+    - curl -X GET http://localhost:3000/api/mongo-keyword-videos (키워드 별 인기 동영상 명령어)
+    - curl -X GET http://localhost:3000/api/mongo-keyword-videos/Sports ("Sports" 카테고리의 인기 동영상 명령어)
+    - curl -X GET http://localhost:3000/api/mongo-related-keywords (연관키워드 명령어)
+    - curl -X GET http://localhost:3000/api/mongo-related-keywords/중국 ("중국" 키워드의 연관키워드 명령어)
+
+
+
+
+
